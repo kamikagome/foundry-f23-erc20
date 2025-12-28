@@ -3,6 +3,8 @@
 ## Project Overview
 This repository contains a Foundry-based Ethereum project that implements a simple ERC20 token called "OurToken" (OT). The project demonstrates basic ERC20 token functionality using OpenZeppelin's battle-tested ERC20 implementation.
 
+Cyfrin Updraft Soldity course: https://updraft.cyfrin.io/courses/solidity
+
 ## Network Compatibility
 
 The deployment script is configured to work with:
