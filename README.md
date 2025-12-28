@@ -1,7 +1,7 @@
 # ERC20 Token Project Summary
 
 ## Project Overview
-This repository contains a Foundry-based Ethereum project that implements a simple ERC20 token called "OurToken" (OT). The project demonstrates basic ERC20 token functionality using OpenZeppelin's battle-tested ERC20 implementation.
+This repository contains a Foundry-based Ethereum project that implements a simple ERC20 token. The project demonstrates basic ERC20 token functionality using OpenZeppelin's battle-tested ERC20 implementation.
 
 Cyfrin Updraft Soldity course: https://updraft.cyfrin.io/courses/solidity
 
